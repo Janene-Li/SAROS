@@ -1,0 +1,29 @@
+[1;44mINFO[1;0m:root:start
+[1;44mINFO[1;0m:root:epoch:1
+[1;44mINFO[1;0m:root:maxhash: 52819533
+[1;44mINFO[1;0m:root:mergesize: 15163
+[1;44mINFO[1;0m:root:estimated_volume: 52203
+[1;44mINFO[1;0m:root:heavy hitter: 2438943094,2438932767,161,3486,17
+[1;44mINFO[1;0m:root:heavy hitter: 699472475,1151183042,80,62053,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,1151183072,80,41623,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,3536168809,80,3237,6
+[1;44mINFO[1;0m:root:x:643 counter:6009 preal:0.249625561658 new p_threshole in s01: 0.259700449326
+[1;44mINFO[1;0m:root:x:643 counter:6328 preal:0.237041719343 new p_threshole in s02: 0.249633375474
+[1;44mINFO[1;0m:root:x:643 counter:5844 preal:0.256673511294 new p_threshole in s03: 0.265338809035
+[1;44mINFO[1;0m:root:x:643 counter:6349 preal:0.236257678375 new p_threshole in s04: 0.2490061427
+[1;44mINFO[1;0m:root:x:643 counter:9161 preal:0.163737583233 new p_threshole in s22: 0.190990066587
+[1;44mINFO[1;0m:root:x:643 counter:12557 preal:0.119455283905 new p_threshole in s34: 0.155564227124
+[1;44mINFO[1;0m:root:x:643 counter:13545 preal:0.110741971207 new p_threshole in s24: 0.148593576966
+[1;44mINFO[1;0m:root:x:643 counter:13954 preal:0.107496058478 new p_threshole in s13: 0.145996846782
+[1;44mINFO[1;0m:root:x:643 counter:2810 preal:0.533807829181 new p_threshole in s12: 0.487046263345
+[1;44mINFO[1;0m:root:x:643 counter:10138 preal:0.147958177155 new p_threshole in s11: 0.178366541724
+[1;44mINFO[1;0m:root:x:643 counter:2204 preal:0.68058076225 new p_threshole in s31: 0.6044646098
+[1;44mINFO[1;0m:root:x:643 counter:6015 preal:0.249376558603 new p_threshole in s33: 0.259501246883
+[1;44mINFO[1;0m:root:x:643 counter:4503 preal:0.333111259161 new p_threshole in s14: 0.326489007328
+[1;44mINFO[1;0m:root:x:643 counter:9383 preal:0.159863583076 new p_threshole in s32: 0.187890866461
+[1;44mINFO[1;0m:root:x:643 counter:6873 preal:0.218245307726 new p_threshole in s44: 0.234596246181
+[1;44mINFO[1;0m:root:x:643 counter:5986 preal:0.250584697628 new p_threshole in s23: 0.260467758102
+[1;44mINFO[1;0m:root:x:643 counter:4124 preal:0.363724539282 new p_threshole in s21: 0.350979631426
+[1;44mINFO[1;0m:root:x:643 counter:8212 preal:0.18265952265 new p_threshole in s41: 0.20612761812
+[1;44mINFO[1;0m:root:x:643 counter:3034 preal:0.49439683586 new p_threshole in s42: 0.455517468688
+[1;44mINFO[1;0m:root:x:643 counter:11556 preal:0.129802699896 new p_threshole in s43: 0.163842159917

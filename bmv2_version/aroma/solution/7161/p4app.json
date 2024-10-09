@@ -1,0 +1,180 @@
+{
+
+  "program": "send_to_cpu.p4",
+  "switch": "simple_switch",
+  "compiler": "p4c",
+  "options": "--target bmv2 --arch v1model --std p4-16",
+  "switch_cli": "simple_switch_CLI",
+  "cli": true,
+  "pcap_dump": true,
+  "enable_log": true,
+  "cpu_port": true,
+
+  "topo_module": {
+    "file_path": "",
+    "module_name": "p4utils.mininetlib.apptopo",
+    "object_name": "AppTopo"
+  },
+
+  "controller_module": null,
+  "topodb_module": {
+    "file_path": "",
+    "module_name": "p4utils.utils.topology",
+    "object_name": "Topology"
+  },
+
+  "mininet_module": {
+    "file_path": "",
+    "module_name": "p4utils.mininetlib.p4net",
+    "object_name": "P4Mininet"
+  },
+
+  "topology": {
+    "links": [["h1","s13"], ["h2","s14"], ["h3","s23"], ["h4","s24"], ["h5","s33"], ["h6","s34"], ["h7","s43"], ["h8","s44"], 
+              ["h11","s13"], ["h12","s14"], ["h13","s23"], ["h14","s24"], ["h15","s33"], ["h16","s34"], ["h17","s43"], ["h18","s44"], 
+              ["s13","s11"], ["s13","s12"], ["s14","s11"], ["s14","s12"], ["s11","s01"], ["s11","s02"], ["s12","s03"], ["s12","s04"], 
+              ["s23","s21"], ["s23","s22"], ["s24","s21"], ["s24","s22"], ["s21","s01"], ["s21","s02"], ["s22","s03"], ["s22","s04"], 
+              ["s33","s31"], ["s33","s32"], ["s34","s31"], ["s34","s32"], ["s31","s01"], ["s31","s02"], ["s32","s03"], ["s32","s04"], 
+              ["s43","s41"], ["s43","s42"], ["s44","s41"], ["s44","s42"], ["s41","s01"], ["s41","s02"], ["s42","s03"], ["s42","s04"]                                                        
+              ],
+    "hosts": {
+      "h1": {
+      },
+      "h2": {
+      },
+      "h3": {
+      },
+      "h4": {
+      },
+      "h5": {
+      },
+      "h6": {
+      },
+      "h7": {
+      },
+      "h8": {
+      },
+      "h11": {
+      },
+      "h12": {
+      },
+      "h13": {
+      },
+      "h14": {
+      },
+      "h15": {
+      },
+      "h16": {
+      },
+      "h17": {
+      },
+      "h18": {
+      }
+    },
+    "switches": {
+      "s01": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      },
+      "s02": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      },
+      "s03": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      },     
+      "s04": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      },     
+      "s11": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      },     
+      "s12": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s13": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s14": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s21": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s22": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s23": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s24": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s31": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s32": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s33": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s34": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s41": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s42": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s43": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      } ,     
+      "s44": {
+        "cli_input": "s1-commands.txt",
+        "program": "send_to_cpu.p4",
+        "cpu_port": true
+      }
+    }
+  }
+
+ 
+
+}

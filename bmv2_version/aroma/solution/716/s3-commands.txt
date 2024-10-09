@@ -1,0 +1,11 @@
+table_set_default ipv4_lpm drop
+
+table_add MyIngress.ipv4_lpm ipv4_forward 10.0.1.0/24 => 00:00:00:02:01:00 2
+
+table_add MyIngress.ipv4_lpm ipv4_forward 10.0.3.2/32 => 00:00:0a:00:03:02 1
+
+ 
+
+//creates a mirroring ID 100 to output port 3
+
+mirroring_add 100 3

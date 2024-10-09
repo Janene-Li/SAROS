@@ -1,0 +1,116 @@
+[1;44mINFO[1;0m:root:start
+[1;44mINFO[1;0m:root:start
+[1;44mINFO[1;0m:root:epoch:1
+[1;44mINFO[1;0m:root:epoch:1
+[1;44mINFO[1;0m:root:maxhash: 63453313
+[1;44mINFO[1;0m:root:mergesize: 8445
+[1;44mINFO[1;0m:root:estimated_volume: 27751
+[1;44mINFO[1;0m:root:heavy hitter: 699472475,1151183042,80,65003,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093849383,699473758,3260,49240,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093891269,3609953431,80,21750,6
+[1;44mINFO[1;0m:root:heavy hitter: 3536168809,699472399,3237,80,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,3536168809,80,3237,6
+[1;44mINFO[1;0m:root:heavy hitter: 699473758,4093849383,49240,3260,6
+[1;44mINFO[1;0m:root:x:411 counter:3397 preal:0.294377391816 new p_threshole in s01: 0.295501913453
+[1;44mINFO[1;0m:root:x:411 counter:3895 preal:0.256739409499 new p_threshole in s02: 0.265391527599
+[1;44mINFO[1;0m:root:x:411 counter:4404 preal:0.227066303361 new p_threshole in s03: 0.241653042688
+[1;44mINFO[1;0m:root:x:411 counter:2727 preal:0.366703337 new p_threshole in s04: 0.3533626696
+[1;44mINFO[1;0m:root:x:411 counter:4038 preal:0.247647350173 new p_threshole in s22: 0.258117880139
+[1;44mINFO[1;0m:root:x:411 counter:8968 preal:0.111507582516 new p_threshole in s34: 0.149206066012
+[1;44mINFO[1;0m:root:x:411 counter:6286 preal:0.159083678015 new p_threshole in s24: 0.187266942412
+[1;44mINFO[1;0m:root:x:411 counter:7241 preal:0.138102472034 new p_threshole in s13: 0.170481977627
+[1;44mINFO[1;0m:root:x:411 counter:1313 preal:0.761614623001 new p_threshole in s12: 0.669291698401
+[1;44mINFO[1;0m:root:x:411 counter:5108 preal:0.195771339076 new p_threshole in s11: 0.216617071261
+[1;44mINFO[1;0m:root:x:411 counter:2184 preal:0.457875457875 new p_threshole in s31: 0.4263003663
+[1;44mINFO[1;0m:root:x:411 counter:2552 preal:0.391849529781 new p_threshole in s33: 0.373479623824
+[1;44mINFO[1;0m:root:x:411 counter:3354 preal:0.298151460942 new p_threshole in s14: 0.298521168754
+[1;44mINFO[1;0m:root:x:411 counter:5814 preal:0.171998624011 new p_threshole in s32: 0.197598899209
+[1;44mINFO[1;0m:root:x:411 counter:3298 preal:0.303214069133 new p_threshole in s44: 0.302571255306
+[1;44mINFO[1;0m:root:x:411 counter:2460 preal:0.406504065041 new p_threshole in s23: 0.385203252033
+[1;44mINFO[1;0m:root:x:411 counter:1708 preal:0.585480093677 new p_threshole in s21: 0.528384074941
+[1;44mINFO[1;0m:root:x:411 counter:5584 preal:0.179083094556 new p_threshole in s41: 0.203266475645
+[1;44mINFO[1;0m:root:x:411 counter:3087 preal:0.323939099449 new p_threshole in s42: 0.319151279559
+[1;44mINFO[1;0m:root:x:411 counter:8510 preal:0.117508813161 new p_threshole in s43: 0.154007050529
+[1;44mINFO[1;0m:root:epoch:2
+[1;44mINFO[1;0m:root:maxhash: 33331718
+[1;44mINFO[1;0m:root:mergesize: 9248
+[1;44mINFO[1;0m:root:estimated_volume: 33373
+[1;44mINFO[1;0m:root:heavy hitter: 2977713060,4093878511,80,33515,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093876480,699466613,3057,445,6
+[1;44mINFO[1;0m:root:heavy hitter: 2049430218,699472399,47984,80,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,1304789172,80,36146,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,2049430218,80,47984,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472475,1151183042,80,65003,6
+[1;44mINFO[1;0m:root:heavy hitter: 699466613,4093876480,445,3057,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472475,1151312248,80,53699,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093853884,699527470,49908,443,17
+[1;44mINFO[1;0m:root:heavy hitter: 699466720,699495864,39040,1606,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093878511,2538455115,80,16017,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,3047377856,80,51652,6
+[1;44mINFO[1;0m:root:heavy hitter: 1151183042,699472475,65003,80,6
+[1;44mINFO[1;0m:root:heavy hitter: 699495883,4093876480,1632,3072,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093878511,699476085,80,7459,6
+[1;44mINFO[1;0m:root:heavy hitter: 699527470,2538409856,443,3056,17
+[1;44mINFO[1;0m:root:heavy hitter: 2538409856,699527470,3056,443,17
+[1;44mINFO[1;0m:root:x:260 counter:3466 preal:0.288517022504 new p_threshole in s01: 0.289914000694
+[1;44mINFO[1;0m:root:x:260 counter:2077 preal:0.481463649494 new p_threshole in s02: 0.438249225115
+[1;44mINFO[1;0m:root:x:260 counter:2776 preal:0.36023054755 new p_threshole in s03: 0.336515046578
+[1;44mINFO[1;0m:root:x:260 counter:3797 preal:0.263365815117 new p_threshole in s04: 0.281365186014
+[1;44mINFO[1;0m:root:x:260 counter:5021 preal:0.199163513244 new p_threshole in s22: 0.210954386623
+[1;44mINFO[1;0m:root:x:260 counter:9102 preal:0.109865963525 new p_threshole in s34: 0.117733984022
+[1;44mINFO[1;0m:root:x:260 counter:7378 preal:0.135538086202 new p_threshole in s24: 0.145883857444
+[1;44mINFO[1;0m:root:x:260 counter:5668 preal:0.176429075512 new p_threshole in s13: 0.175239655935
+[1;44mINFO[1;0m:root:x:260 counter:1216 preal:0.822368421053 new p_threshole in s12: 0.791753076522
+[1;44mINFO[1;0m:root:x:260 counter:4669 preal:0.214178624973 new p_threshole in s11: 0.214666314231
+[1;44mINFO[1;0m:root:x:260 counter:864 preal:0.99 new p_threshole in s31: 0.87726007326
+[1;44mINFO[1;0m:root:x:260 counter:2005 preal:0.498753117207 new p_threshole in s33: 0.47369841853
+[1;44mINFO[1;0m:root:x:260 counter:4338 preal:0.230520977409 new p_threshole in s14: 0.244121015678
+[1;44mINFO[1;0m:root:x:260 counter:5343 preal:0.187160771102 new p_threshole in s32: 0.189248396724
+[1;44mINFO[1;0m:root:x:260 counter:5391 preal:0.185494342423 new p_threshole in s44: 0.208909724999
+[1;44mINFO[1;0m:root:x:260 counter:3241 preal:0.308546744832 new p_threshole in s23: 0.323878046272
+[1;44mINFO[1;0m:root:x:260 counter:1208 preal:0.827814569536 new p_threshole in s21: 0.767928470617
+[1;44mINFO[1;0m:root:x:260 counter:4317 preal:0.231642344221 new p_threshole in s41: 0.225967170505
+[1;44mINFO[1;0m:root:x:260 counter:1550 preal:0.645161290323 new p_threshole in s42: 0.57995928817
+[1;44mINFO[1;0m:root:x:260 counter:5491 preal:0.182116190129 new p_threshole in s43: 0.176494362209
+[1;44mINFO[1;0m:root:epoch:3
+[1;44mINFO[1;0m:root:maxhash: 51278372
+[1;44mINFO[1;0m:root:mergesize: 8683
+[1;44mINFO[1;0m:root:estimated_volume: 29817
+[1;44mINFO[1;0m:root:heavy hitter: 699466613,4093876480,445,3057,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472475,1151183042,80,65003,6
+[1;44mINFO[1;0m:root:heavy hitter: 4109354357,4093878511,80,33774,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093878511,699513400,80,6021,6
+[1;44mINFO[1;0m:root:heavy hitter: 699466720,699495864,38629,1606,6
+[1;44mINFO[1;0m:root:heavy hitter: 2538440590,4093878511,15950,80,6
+[1;44mINFO[1;0m:root:heavy hitter: 2438943094,2438932767,161,18126,17
+[1;44mINFO[1;0m:root:heavy hitter: 4093853884,699527470,49908,443,17
+[1;44mINFO[1;0m:root:heavy hitter: 2438932767,2438943094,18126,161,17
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,3047377856,80,51652,6
+[1;44mINFO[1;0m:root:heavy hitter: 4109354357,4093878511,80,33666,6
+[1;44mINFO[1;0m:root:heavy hitter: 3047377856,699472399,51652,80,6
+[1;44mINFO[1;0m:root:heavy hitter: 699472399,3047377856,80,49390,6
+[1;44mINFO[1;0m:root:heavy hitter: 4093878511,2538440590,80,15950,6
+[1;44mINFO[1;0m:root:heavy hitter: 3315237061,4093878511,80,33900,6
+[1;44mINFO[1;0m:root:heavy hitter: 2538409856,699527470,3056,443,17
+[1;44mINFO[1;0m:root:heavy hitter: 4093878511,2538440590,80,5712,6
+[1;44mINFO[1;0m:root:heavy hitter: 699527470,2538409856,443,3056,17
+[1;44mINFO[1;0m:root:x:357 counter:4540 preal:0.220264317181 new p_threshole in s01: 0.234194253883
+[1;44mINFO[1;0m:root:x:357 counter:3401 preal:0.294031167304 new p_threshole in s02: 0.322874778866
+[1;44mINFO[1;0m:root:x:357 counter:2866 preal:0.348918353105 new p_threshole in s03: 0.3464376918
+[1;44mINFO[1;0m:root:x:357 counter:2995 preal:0.333889816361 new p_threshole in s04: 0.323384890291
+[1;44mINFO[1;0m:root:x:357 counter:4247 preal:0.235460324935 new p_threshole in s22: 0.230559137273
+[1;44mINFO[1;0m:root:x:357 counter:5834 preal:0.171408981831 new p_threshole in s34: 0.160673982269
+[1;44mINFO[1;0m:root:x:357 counter:6683 preal:0.149633398174 new p_threshole in s24: 0.148883490028
+[1;44mINFO[1;0m:root:x:357 counter:7385 preal:0.135409614083 new p_threshole in s13: 0.143375622453
+[1;44mINFO[1;0m:root:x:357 counter:1251 preal:0.799360511591 new p_threshole in s12: 0.797839024577
+[1;44mINFO[1;0m:root:x:357 counter:6710 preal:0.149031296572 new p_threshole in s11: 0.162158300104
+[1;44mINFO[1;0m:root:x:357 counter:1222 preal:0.818330605565 new p_threshole in s31: 0.830116499104
+[1;44mINFO[1;0m:root:x:357 counter:2140 preal:0.467289719626 new p_threshole in s33: 0.468571459407
+[1;44mINFO[1;0m:root:x:357 counter:4210 preal:0.237529691211 new p_threshole in s14: 0.238847956105
+[1;44mINFO[1;0m:root:x:357 counter:4611 preal:0.216872695728 new p_threshole in s32: 0.211347835927
+[1;44mINFO[1;0m:root:x:357 counter:4375 preal:0.228571428571 new p_threshole in s44: 0.224639087857
+[1;44mINFO[1;0m:root:x:357 counter:4206 preal:0.237755587256 new p_threshole in s23: 0.254980079059
+[1;44mINFO[1;0m:root:x:357 counter:2170 preal:0.460829493088 new p_threshole in s21: 0.522249288594
+[1;44mINFO[1;0m:root:x:357 counter:5771 preal:0.173280194074 new p_threshole in s41: 0.18381758936
+[1;44mINFO[1;0m:root:x:357 counter:1610 preal:0.621118012422 new p_threshole in s42: 0.612886267572
+[1;44mINFO[1;0m:root:x:357 counter:7917 preal:0.126310471138 new p_threshole in s43: 0.136347249352
